@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('GreenTable.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 80px;
+}
+
+button {
+    color: #016f32;
+    width: 250px;
+    height: 50px;
+    background: goldenrod;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 2px;
+    margin: 7px;
+}
+
+#message-el {
+    font-style: italic;
+}
